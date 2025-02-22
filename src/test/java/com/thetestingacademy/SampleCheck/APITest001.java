@@ -1,4 +1,4 @@
-package com.thetestingacademy;
+package com.thetestingacademy.SampleCheck;
 
 public class APITest001 {
     public static void main(String[] args) {
