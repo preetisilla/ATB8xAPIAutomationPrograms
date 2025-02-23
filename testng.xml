@@ -3,11 +3,11 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="C:/Users/Admin/IdeaProjects/ATB8xAPIAutomationPrograms">
         <classes>
-            <class name="com.thetestingacademy.RestAssuredBasics.APITest003_TestNG">
+            <class name="com.thetestingacademy.RestAssuredBasics.GET.APITest003_TestNG">
             <methods><include name="test_GET_Request"/>
             </methods>
             </class>
-            <class name="com.thetestingacademy.RestAssuredBasics.APITest004_BDDStyleGET">
+            <class name="com.thetestingacademy.RestAssuredBasics.GET.APITest004_BDDStyleGET">
                 <methods><include name="test_GET_Request_Positive"/>
                     <include name="test_GET_Request_Negative"/>
                 </methods>
